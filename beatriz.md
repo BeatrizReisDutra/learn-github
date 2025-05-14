@@ -1,2 +1,2 @@
 Texto de teste adicionado
-anterando texto
+alterando texto
